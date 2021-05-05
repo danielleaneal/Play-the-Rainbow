@@ -1,3 +1,4 @@
 # Play-the-Rainbow
-Creative Project 3 from Computational Media. A synesthetic Processing Sketch
-which plays music as well as visuals. 
+I chose to make a audio/visual Processing Sketch where you play a song that randomly shows you colors and plays sustained sound. I adapted this project from a p5.js example sketch, "Hello_p5: Song."
+
+In adding random colors that flicker as you play the notes and longer, sustained tones, I thought users could play music as much as they could play color, adding a synesthetic feature to the original example sketch. The notes are just musical notes, but they take on more than that when they're associated with a flickering color. You could either play music in the traditional sense (sound based goals), or you could play music in a non-traditional way, focusing on the aesthetics of the colors that are displaying as you're playing the music. This sketch produces pieces which look pretty and sound ugly, or sound pretty and look silly. I just wanted to make sure there were audio and visuals in this project, so I combined a few tutorials to create an audio-visualexperience for users.
